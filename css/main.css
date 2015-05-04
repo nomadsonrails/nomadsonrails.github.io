@@ -97,7 +97,8 @@ textarea {
 
 
 body {
-    background: #60bdc6 url('../img/world_bg.png') no-repeat right top;
+    background: #45C0CC url('../img/world_bg.png') no-repeat right top;
+    font-family: "Roboto", "Arial", sans-serif;
 }
 
 .logo {
@@ -112,6 +113,7 @@ body {
     text-align: center;
     color: #ffffff;
     font-size: 40px;
+    font-weight: bold;
 }
 
 .apply {
@@ -135,4 +137,5 @@ body {
     border-radius: 4px;
     box-shadow: #117832 3px 3px 0px;
     cursor: pointer;
+    font-weight: 300;
 }
